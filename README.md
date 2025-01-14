@@ -18,7 +18,7 @@ Identifies and logs which microphone detects a whistle first.
 ## Installation
 ### Clone the Repository:
 ```
-git clone https://github.com/yourusername/repo-name.git  
+git clone https://github.com/azzan02/Sound-Localization-on-Raspberry-Pi.git  
 cd repo-name
 ```
 
